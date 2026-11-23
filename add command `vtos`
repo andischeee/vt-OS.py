@@ -1,0 +1,5 @@
+mkdir -p ~/.local/bin
+cp ~/OS FILE LOCATION/vtos.py ~/.local/bin/vtos.py
+echo '#!/bin/bash
+python3 ~/.local/bin/vtos.py' > ~/.local/bin/vtos
+chmod +x ~/.local/bin/vtos
