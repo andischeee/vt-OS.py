@@ -1,0 +1,11 @@
+cp ~/OS LOCATION/vtos_1_1_fixed.py ~/.local/bin/vtos.py
+nano ~/.local/bin/vtos
+
+#!/bin/bash
+python3 "$HOME/.local/bin/vtos.py"
+
+chmod +x ~/.local/bin/vtos
+vtos
+
+
+Note: rename new file to vtos.py
