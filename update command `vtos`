@@ -1,4 +1,4 @@
-cp ~/OS LOCATION/vtos_1_1_fixed.py ~/.local/bin/vtos.py
+cp ~/OS FILE LOCATION/vtos_1_1_fixed.py ~/.local/bin/vtos.py
 nano ~/.local/bin/vtos
 
 #!/bin/bash
