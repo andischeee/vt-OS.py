@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3 
 # VT>OS — Vibecoded Terminal Operating System
 # Python terminal environment for Linux
 
