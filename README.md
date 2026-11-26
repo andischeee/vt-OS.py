@@ -1,2 +1,16 @@
-# vtos.py
-vibecoded terminal os that runs directly on your linux terminal (TEST ONLY)
+                                                    ▇▇▇▇▇                  ▇▇▇▇▇
+                    
+                                                    ▇▇▇▇▇                      ▇▇▇▇▇
+
+▇▇▇▇▇               ▇▇▇▇▇   ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇          ▇▇▇▇▇
+ 
+  ▇▇▇▇▇           ▇▇▇▇▇                    ▇▇▇▇▇                              ▇▇▇▇▇
+
+    ▇▇▇▇▇       ▇▇▇▇▇                      ▇▇▇▇▇                          ▇▇▇▇▇
+
+      ▇▇▇▇▇▇▇▇▇▇▇                         ▇▇▇▇▇                       ▇▇▇▇▇
+
+           ▇▇▇▇▇                                 ▇▇▇▇▇▇▇▇▇▇▇▇    ▇▇▇▇▇
+
+
+Vibecoded Terminal OS that runs directly on your linux terminal!
